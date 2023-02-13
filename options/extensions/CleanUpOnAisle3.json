@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "CleanUpOnAisle3",
+    "path": "extensions/CleanUpOnAisle3/CleanUpOnAisle3.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}
