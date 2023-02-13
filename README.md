@@ -10,4 +10,4 @@ As `.cuta3` will generate within the project dictory. `.cuta3` is a temporary fi
 
 Download the latest release from [here.](https://github.com/tabularelf/CleanUpOnAisle3/releases) Once downloaded, head over to GameMaker and import the extension under Tools -> Import Local Package. Hit "Add All" and press "OK".
 No additional setup is required! The first time run will clean your project automatically (as to stash the last runtime state)
-After that, any future runs will only occur an autoclean whenever the switch from YYC to VM (or vice versa).
+After that, any future runs will only occur an autoclean whenever the switch from VM to YYC (or vice versa).
