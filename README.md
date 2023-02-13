@@ -1,5 +1,5 @@
 # CleanUpOnAisle3 v1.0.0
- A small extension that autocleans on runtime changes VM to YYC or vice versa. (Windows IDE currently supported)
+ A small extension that autocleans on runtime changes VM to YYC or vice versa. 2022.6+ (Windows IDE currently supported)
 ## Setup:
 
 I'd recommend creating an `.gitingore` file and include this.
